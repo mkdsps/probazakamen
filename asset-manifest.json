@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/probazakamen/static/css/main.a37db86c.css",
+    "main.js": "/probazakamen/static/js/main.73531fcb.js",
+    "static/media/Rectangle 11.jpg": "/probazakamen/static/media/Rectangle 11.5b01c7956bb711dc99ed.jpg",
+    "static/media/Rectangle 18.png": "/probazakamen/static/media/Rectangle 18.377c5215807597b8ef39.png",
+    "static/media/kmen.jpg": "/probazakamen/static/media/kmen.2c41ebade1653239e5bd.jpg",
+    "index.html": "/probazakamen/index.html",
+    "main.a37db86c.css.map": "/probazakamen/static/css/main.a37db86c.css.map",
+    "main.73531fcb.js.map": "/probazakamen/static/js/main.73531fcb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a37db86c.css",
+    "static/js/main.73531fcb.js"
+  ]
+}
