@@ -1,0 +1,29 @@
+{
+	"Proizvodi": [
+		{
+			"naziv":"Fasade",
+			"slika":"slike/fasada.png",
+			"opis":"Prirodni kamen koji se koristi za fasade debljine 1-2cm. Predstavlja izvrsnu izolaciju i zaštitu objekata. Odlikuju ga čvrstina, dugotrajnost,otpornost na vremenske nepogode, temperaturne razlike a pre svega estetski izgled koji doprinosi Vašem domu."
+		},
+		{
+			"naziv":"Štanglice",
+			"slika":"slike/stanglice.png",
+			"opis":"Štanglice su vrsta obrade prirodnog kamena koja najpre sluzi za dekoraciju zidova i šankova. Mogu biti u dimenzijama od 3-6cm. U ponudi su u raznim bojama, a neke od vrsta kamena od kojih se rade iskopavaju se iz drugih kamenoloma."
+		},
+		{
+			"naziv":"Stepenice",
+			"slika":"slike/stepenice.png",
+			"opis":"Stepenice od prirodnog kamena mogu se raditi od lomljenog ili sečenog kamena, u zavisnosti od namene ili želje klijenta.Otporne su na sneg i mraz, nisu klizave i lake su za održavanje. Mogu biti raznih oblika i uklopiti se u svaku konstrukciju. "
+		},
+		{
+			"naziv":"Staze",
+			"slika":"slike/staze.png",
+			"opis":"Staze su najzastupljeniji stil dekoracije prirodnim kamenom. Sa razlogom nose takvo priznanje najpre zbog njihove dugotrajnosti i izdržljivosti u ekstremnim vremenskim uslovima."
+		},
+		{
+			"naziv":"Razno",
+			"slika":"slike/razno.png",
+			"opis":"Česme, fontane, nadgrobni spomenici mogu se raditi od prirodnog kamena bilo kog oblika i veličine. Na želju klijenta kamen se može koristiti u dekoraciji bilo koje površine."
+		}
+		]
+}
